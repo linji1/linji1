@@ -52,6 +52,11 @@
 <!-- 彩红分割线 -->
 <img width="200%" src="https://raw.githubusercontent.com/linji1/linji1/main/img/hr.gif"/>  
 
+### 累积浏览量统计 
+
+<p align="center" >
+  <b> 2025-03-09 13:36开始,累积<img src="https://profile-counter.glitch.me/linji1/count.svg" />次访问！</b>
+</p>
 
 ## 📊数据展示  
 
