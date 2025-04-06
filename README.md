@@ -35,17 +35,9 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Outlook&logoColor=white)](mailto:dishao@msn.com "Email")
 -->
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/linji1 "Follow on Github")
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/linji1 "Follow on Gitlab")
-[![Codeberg Badge](https://img.shields.io/badge/-Codeberg-2185D0?style=flat&logo=Codeberg&logoColor=white)](https://codeberg.org/linji1 "Follow on Codeberg")
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/dishao_bot "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=X&logoColor=white)](https://twitter.com/intent/follow?screen_name=linji1 "Follow on Twitter")
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080808605363 "Follow on Facebook")
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/981545843175862323 "Contact on Discord")
 [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://acg.mn/@dishao "Follow on Mastodon")  
 ![Views Badge](https://komarev.com/ghpvc/?username=linji1&style=flat&label=Views)
 ![Visits Badge](https://badges.pufler.dev/visits/linji1/linji1?style=flat)
-![Follow Badge](https://img.shields.io/github/followers/linji1?label=Follow)
-![Star Badge](https://img.shields.io/github/stars/linji1/rules_script?label=Star)
 
 </div>
 
