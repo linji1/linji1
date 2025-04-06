@@ -35,7 +35,6 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Outlook&logoColor=white)](mailto:dishao@msn.com "Email")
 -->
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/linji1 "Follow on Github")
-[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://acg.mn/@dishao "Follow on Mastodon")  
 ![Views Badge](https://komarev.com/ghpvc/?username=linji1&style=flat&label=Views)
 ![Visits Badge](https://badges.pufler.dev/visits/linji1/linji1?style=flat)
 
